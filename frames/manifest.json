@@ -1,0 +1,122 @@
+[
+  {
+    "file": "cook_01.png",
+    "p": 0.04,
+    "quality": "failed"
+  },
+  {
+    "file": "cook_02.png",
+    "p": 0.12,
+    "quality": "failed"
+  },
+  {
+    "file": "cook_03.png",
+    "p": 0.2,
+    "quality": "normal"
+  },
+  {
+    "file": "cook_04.png",
+    "p": 0.28,
+    "quality": "normal"
+  },
+  {
+    "file": "cook_05.png",
+    "p": 0.36,
+    "quality": "normal"
+  },
+  {
+    "file": "cook_06.png",
+    "p": 0.44,
+    "quality": "perfect"
+  },
+  {
+    "file": "cook_07.png",
+    "p": 0.52,
+    "quality": "perfect"
+  },
+  {
+    "file": "cook_08.png",
+    "p": 0.6,
+    "quality": "perfect"
+  },
+  {
+    "file": "cook_09.png",
+    "p": 0.68,
+    "quality": "normal"
+  },
+  {
+    "file": "cook_10.png",
+    "p": 0.76,
+    "quality": "normal"
+  },
+  {
+    "file": "cook_11.png",
+    "p": 0.84,
+    "quality": "normal"
+  },
+  {
+    "file": "cook_12.png",
+    "p": 0.92,
+    "quality": "failed"
+  },
+  {
+    "file": "cook_13.png",
+    "p": 0.96,
+    "quality": "failed"
+  },
+  {
+    "file": "cook_14.png",
+    "p": 0.88,
+    "quality": "failed"
+  },
+  {
+    "file": "cook_15.png",
+    "p": 0.8,
+    "quality": "normal"
+  },
+  {
+    "file": "cook_16.png",
+    "p": 0.72,
+    "quality": "normal"
+  },
+  {
+    "file": "cook_17.png",
+    "p": 0.64,
+    "quality": "normal"
+  },
+  {
+    "file": "cook_18.png",
+    "p": 0.56,
+    "quality": "perfect"
+  },
+  {
+    "file": "cook_19.png",
+    "p": 0.48,
+    "quality": "perfect"
+  },
+  {
+    "file": "cook_20.png",
+    "p": 0.4,
+    "quality": "normal"
+  },
+  {
+    "file": "cook_21.png",
+    "p": 0.32,
+    "quality": "normal"
+  },
+  {
+    "file": "cook_22.png",
+    "p": 0.24,
+    "quality": "normal"
+  },
+  {
+    "file": "cook_23.png",
+    "p": 0.16,
+    "quality": "failed"
+  },
+  {
+    "file": "cook_24.png",
+    "p": 0.08,
+    "quality": "failed"
+  }
+]
